@@ -1,2 +1,6 @@
 
+<<<<<<< HEAD
 Hello this is something diffrent.
+=======
+only second lin
+>>>>>>> 3d6540d18a5b383f9b7ae86b3bd6ce91b24b5cb4
